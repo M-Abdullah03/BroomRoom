@@ -16,13 +16,14 @@ BroomRoom is a Chrome extension that helps manage your Google Classroom experien
     - Alternatively, open this page by clicking on the Chrome menu, hovering over More Tools then selecting Extensions.
 3. Enable Developer Mode by clicking the toggle switch next to Developer mode.
 4. Click the Load unpacked button and select the extension directory.
-
+   Note: Remember to select the root folder, and reload the classroom website if it is open in the background.
 ## Usage
 
 1. Click on the BroomRoom icon in the Chrome toolbar.
 2. Click the "Load" button to load your classes.
 3. Use the interface to manage your classes.
 
+**   To apply changes, make sure to refresh **
 ## Screenshots
 
 ![Usage ](image.png)
