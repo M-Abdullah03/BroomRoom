@@ -23,8 +23,7 @@ BroomRoom is a Chrome extension that helps manage your Google Classroom experien
 2. Click the "Load" button to load your classes.
 3. Use the interface to manage your classes.
 
-**   To apply changes, make sure to refresh
-**
+  **To apply changes, make sure to refresh**
 ## Screenshots
 
 ![Usage ](image.png)
