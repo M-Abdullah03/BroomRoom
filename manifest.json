@@ -1,0 +1,29 @@
+{
+   "action": {
+      "default_icon": {
+         "16": "/images/icon16.png",
+         "24": "/images/icon24.png",
+         "32": "images/icon32.png",
+         "64": "/images/icon64.png",
+         "128": "/images/icon128.png"
+      },
+      "default_popup": "popup.html"
+   },
+   "content_scripts": [ {
+      "js": [ "content.js" ],
+      "matches": [ "https://classroom.google.com/*" ],
+      "run_at": "document_end"
+   } ],
+   "description": "Manage your Google Classroom experience by hiding irrelevant classes.",
+   "icons": { 
+      "16": "/images/icon16.png",
+      "24": "/images/icon24.png",
+      "32": "images/icon32.png",
+      "64": "/images/icon64.png",
+      "128": "/images/icon128.png"
+   },
+   "manifest_version": 3,
+   "name": "BroomRoom",
+   "permissions": [ "storage" ],
+   "version": "1.1"
+}
